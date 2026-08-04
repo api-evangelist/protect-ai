@@ -2,20 +2,10 @@
   "repo": "protect-ai",
   "feeds": [
     {
-      "source": "https://protectai.com/blog/rss.xml",
-      "feed_url": "https://protectai.com/blog/rss.xml",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
       "source": "https://protectai.com/layer",
-      "feed_url": "https://protectai.com/layer",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "error": "HTTPError"
     }
   ],
   "post_count": 4,
-  "fetched": "2026-07-11T11:50:51Z"
+  "fetched": "2026-08-01T15:49:00Z"
 }
